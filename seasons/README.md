@@ -1,5 +1,7 @@
 Shows the temperature and season of the user.
 Uses the geolocation API to determine the user's location.
+<br/>
+Components: Spinner, Season Display
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
