@@ -1,4 +1,5 @@
 A YouTube API project that I did previously. I re-did it, to practice my React concepts.
+Components: Search Bar, Video Detail, Video Item, Video List
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
