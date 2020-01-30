@@ -18,4 +18,4 @@ A React app that reads the user's geolocation and tells the user which season th
 A React app that pulls videos from the Youtube API and displays an active video the user can play and a vide list on the side to change videos.
 
 ## songs
-A React-Redux app.
+A basic React-Redux app that will swap data via the Redux store when a certian button is clicked on.
