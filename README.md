@@ -19,3 +19,6 @@ A React app that pulls videos from the Youtube API and displays an active video 
 
 ## songs
 A basic React-Redux app that will swap data via the Redux store when a certian button is clicked on.
+
+## blog
+A React-Redux app.
