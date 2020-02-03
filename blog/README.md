@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-Redux app that will get blog data from an API and display it to the screen.<br />
+This app uses the middleware React-Thunk to make use of function callbacks inside of action creators. We use this so we can make API requests to different APIS. <br />
+This app also uses lodash. <br />
 
 ## Available Scripts
 
